@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-25T22:06:05 TRT" name="Default Suite" finished-at="2022-07-25T22:06:12 TRT" duration-ms="7389">
+    <groups>
+    </groups>
+    <test started-at="2022-07-25T22:06:05 TRT" name="testngdeneme" finished-at="2022-07-25T22:06:12 TRT" duration-ms="7389">
+      <class name="denemetestng">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:05 TRT" name="setUp" finished-at="2022-07-25T22:06:08 TRT" duration-ms="3081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aFastTest()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:08 TRT" name="aFastTest" finished-at="2022-07-25T22:06:08 TRT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aFastTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:08 TRT" name="teardown" finished-at="2022-07-25T22:06:08 TRT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:08 TRT" name="setUp" finished-at="2022-07-25T22:06:10 TRT" duration-ms="1957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="aSlowTest()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:10 TRT" name="aSlowTest" finished-at="2022-07-25T22:06:12 TRT" duration-ms="2045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSlowTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:denemetestng@6a01e23]" started-at="2022-07-25T22:06:12 TRT" name="teardown" finished-at="2022-07-25T22:06:12 TRT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- denemetestng -->
+    </test> <!-- testngdeneme -->
+  </suite> <!-- Default Suite -->
+</testng-results>
